@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge" />
 </p>
 
-<h1 align="center">🚀 BIND9 DNS Server Auto Installer</h1>
+<h1 align="center">🚀 Web PHP Untuk Management Server PPP</h1>
 
 <p align="center">
   <i>Management Server PPP Mikrotik Via API Sederhana Dan Compact</i>
