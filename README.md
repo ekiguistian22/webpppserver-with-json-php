@@ -53,16 +53,21 @@ Pastikan MikroTik dapat diakses dari server web.
 Gunakan HTTPS jika di-deploy ke publik.
 
 💸 Dukung Saya
-Script ini dibuat dengan ❤️ oleh Leo Ganteng.
-Kalau bermanfaat, kamu bisa traktir jajan via PayPal 😁
+## ❤️ Support Project Ini
+Kalau script ini bermanfaat, kamu bisa traktir kopi ☕ lewat PayPal:  
 
+👉 [paypal.me/ekiguistian](https://www.paypal.me/ekiguistian22)
 
-Atau scan QR berikut untuk donasi:
+Atau scan QR berikut:  
+![PayPal QR](paypal_qr_ekiguistian22.png)
+---
+
+✍️ Created with ❤️ by **Leo Ganteng**
 
 
 👨‍💻 Author
 Created by Leo Ganteng
 📧 Email: ekiguistian@gmail.com
-🌐 GitHub: github.com/ekiguistian
+🌐 GitHub: github.com/ekiguistian22
 
 ✨ Terima kasih sudah menggunakan project ini!
