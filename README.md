@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-BIND9%20Auto%20Installer-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge" />
+</p>
+
+<h1 align="center">🚀 BIND9 DNS Server Auto Installer</h1>
+
+<p align="center">
+  <i>Management Server PPP Mikrotik Via API Sederhana Dan Compact</i>
+</p>
+
+---
+
 # 🌐 WebPPPServer with JSON + PHP
 
 Repository ini berisi **Web PPP Server** berbasis PHP dengan integrasi **JSON API** untuk autentikasi MikroTik.  
@@ -47,21 +61,36 @@ Login menggunakan Username & Password Web yang sudah kamu atur.
 📌 Catatan
 Pastikan php-curl aktif di server kamu.
 
-Pastikan MikroTik dapat diakses dari server web.
-
-Gunakan HTTPS jika di-deploy ke publik.
-
-💸 Dukung Saya
 ## ❤️ Support Project Ini
 Kalau script ini bermanfaat, kamu bisa traktir kopi ☕ lewat PayPal:  
+
+---
 
 👉 [paypal.me/ekiguistian](https://www.paypal.me/ekiguistian22)
 
 Atau scan QR berikut:  
 ![PayPal QR](paypal_qr_ekiguistian22.png)
+
 ---
 
 ✍️ Created with ❤️ by **Leo Ganteng**
+
+---
+
+<p align="center">
+  ❤️ Created by <b>Leo Ganteng</b> | 
+  ☕ Support me via <a href="https://www.paypal.me/ekiguistian22">PayPal</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ekiguistian">
+    <img src="https://img.shields.io/github/followers/ekiguistian?label=Follow%20me&style=social" alt="GitHub Follow" />
+  </a>
+  <a href="https://github.com/ekiguistian?tab=repositories">
+    <img src="https://img.shields.io/badge/More%20Projects-GitHub-orange?style=flat-square" />
+  </a>
+</p>
+
 
 
 👨‍💻 Author
