@@ -14,7 +14,6 @@ Dapat digunakan untuk manajemen user VPN, login, dan monitoring sederhana.
 ### 2. Konfigurasi MikroTik
 Buka file konfigurasi yang berisi koneksi MikroTik, lalu ubah sesuai dengan data router kamu:
 
-```php
 // KONFIGURASI MikroTik
 $MT_HOST = "ip-public-mikrotik/vpn";
 $MT_USER = "user-mikrotik";
