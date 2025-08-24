@@ -1,0 +1,11 @@
+# robots.txt for pppoe.sikembarnet.id
+User-agent: *
+Disallow: /admin/
+Disallow: /session_boot.php
+Disallow: /routeros_api.class.php
+
+# Allow crawling
+Allow: /
+
+# Sitemap location
+Sitemap: /sitemap.xml
